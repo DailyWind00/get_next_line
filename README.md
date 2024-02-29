@@ -3,7 +3,7 @@ A function which return the next line of a file each time you call it
 
 First use of static variables & valgrind mastery
 
-The function ft_printf will be added to the libft library
+The function get_next_line will be added to the libft library
 - ![get_next_line subject](fr.get_next_line.subject.pdf)
 
 My get_next_line pass the francinette tester :
